@@ -5,4 +5,5 @@ ls
 ls -l
 ls -Al
 ls -al
+http://192.168.56.1/4080E006/HTML1.HTML
 ```
