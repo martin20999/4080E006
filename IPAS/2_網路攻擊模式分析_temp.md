@@ -25,6 +25,11 @@ C. Spear phishing(魚叉式網路釣魚)←特定對象
 D. Trojan horse(特洛伊木馬)
 ```
 ```
+Which of the following ==下列何者
+is suspicious(懷疑) of
+答案:C
+```
+```
 3. You are a security administrator for a medium-sized bank. You have discovered a piece of
 software on your bank’s database server that is not supposed to be there. It appears that
 the software will begin deleting database files if a specific employee is terminated. What
