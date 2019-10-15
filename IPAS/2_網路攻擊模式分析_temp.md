@@ -1,6 +1,3 @@
-#
-```
-
 ```
 ```
 1. John is analyzing(分析) strange(奇怪) behavior on computers in his network. He believes there is malware
