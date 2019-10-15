@@ -10,7 +10,7 @@ A. Ransomware(啟動區病毒)
 B. Boot(啟動) sector(區域) virus
 C. Rootkit
 D. Key logger(鍵盤側錄)
-
+```
 ```
 2. Ahmed is a sales manager with a major insurance company. He has received an email that
 is encouraging him to click on a link and fill out a survey. He is suspicious of the email,
