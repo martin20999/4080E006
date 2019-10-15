@@ -8,11 +8,9 @@ C. Rootkit
 D. Key logger(鍵盤側錄)
 ```
 ```
-```
 the most likely cause==最有可能的原因
 答案:B
 
-```
 ```
 ```
 2. Ahmed is a sales manager with a major insurance company. He has received an email that
@@ -27,7 +25,6 @@ C. Spear phishing(魚叉式網路釣魚)←特定對象
 D. Trojan horse(特洛伊木馬)
 ```
 ```
-```
 3. You are a security administrator for a medium-sized bank. You have discovered a piece of
 software on your bank’s database server that is not supposed to be there. It appears that
 the software will begin deleting database files if a specific employee is terminated. What
@@ -36,5 +33,4 @@ A. Worm
 B. Logic bomb
 C. Trojan horse
 D. Rootkit
-```
 ```
