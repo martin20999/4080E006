@@ -50,7 +50,7 @@ D. Black-box test(黑箱測試)
 A. Eavesdropping(竊聽)
 B. Man-in-the-middle(中間人攻擊)
 C. Buffer overflow(緩衝區溢出)
-(C)D. Smurf attack(藍精靈攻擊)
+D. Smurf attack(藍精靈攻擊)
 (C)123. John has been asked(問) to do a penetration(滲透) test(測試) of a company(公司). He has been given(給定) general(一般)
 information(信息) but no details(細節) about the network(網絡). What kind(類) of test(測試) is this?
 A. Gray-box(灰盒)
