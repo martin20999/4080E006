@@ -39,3 +39,35 @@ B. Logic bomb
 C. Trojan horse
 D. Rootkit
 ```
+```
+121. Which of the following type of testing utilizes an automated process of proactively identifying
+vulnerabilities of the computing systems present on a network?
+A. Security audit
+B. Vulnerability scanning
+C. White-box test
+D. Black-box test
+122. What type of attack is an NFC most susceptible to?
+A. Eavesdropping
+B. Man-in-the-middle
+C. Buffer overflow
+D. Smurf attack
+123. John has been asked to do a penetration test of a company. He has been given general
+information but no details about the network. What kind of test is this?
+A. Gray-box
+B. White-box
+C. Partial
+D. Masked
+124. Under which type of attack does an attacker’s system appear to be the server to the real
+client and appear to be the client to the real server?
+A. Denial of service
+B. Replay
+C. Eavesdropping
+D. Man-in-the-middle
+125. You are a security administrator for Acme Corporation. You have discovered malware on
+some of your company’s machines. This malware seems to intercept calls from the web
+browser to libraries, and then manipulates the browser calls. What type of attack is this?
+A. Man-in-the-browser
+B. Man-in-the-middle
+C. Buffer overflow
+D. Session hijacking
+```
