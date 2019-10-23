@@ -40,34 +40,34 @@ C. Trojan horse
 D. Rootkit
 ```
 ```
-121. Which of the following type of testing utilizes an automated process of proactively identifying
-vulnerabilities of the computing systems present on a network?
-A. Security audit
-B. Vulnerability scanning
-C. White-box test
-D. Black-box test
-122. What type of attack is an NFC most susceptible to?
-A. Eavesdropping
-B. Man-in-the-middle
-C. Buffer overflow
-D. Smurf attack
-123. John has been asked to do a penetration test of a company. He has been given general
-information but no details about the network. What kind of test is this?
-A. Gray-box
-B. White-box
-C. Partial
-D. Masked
-124. Under which type of attack does an attacker’s system appear to be the server to the real
-client and appear to be the client to the real server?
-A. Denial of service
-B. Replay
-C. Eavesdropping
-D. Man-in-the-middle
-125. You are a security administrator for Acme Corporation. You have discovered malware on
-some of your company’s machines. This malware seems to intercept calls from the web
-browser to libraries, and then manipulates the browser calls. What type of attack is this?
-A. Man-in-the-browser
-B. Man-in-the-middle
-C. Buffer overflow
-D. Session hijacking
+121. Which(哪一個) of the following(以下) type(類型) of testing(測試) utilizes(利用) an automated(自動化的) process(處理) of proactively(主動) identifying(識別)
+vulnerabilities(漏洞) of the computing(計算) systems(系統) present(當下) on a network(網絡)?
+A. Security audit(安全審核)
+B. Vulnerability scanning(漏洞掃描)
+C. White-box test(白盒測試)
+D. Black-box test(黑匣子測試)
+122. What type(類型) of attack(攻擊) is an NFC most susceptible(易感的) to?
+A. Eavesdropping(竊聽)
+B. Man-in-the-middle(中間人)
+C. Buffer overflow(緩衝區溢出)
+D. Smurf attack(藍精靈攻擊)
+123. John has been asked(問) to do a penetration(滲透) test(測試) of a company(公司). He has been given(給定) general(一般)
+information(信息) but no details(細節) about the network(網絡). What kind(類) of test(測試) is this?
+A. Gray-box(灰盒)
+B. White-box(白盒)
+C. Partial(部分的)
+D. Masked(蒙面的)
+124. Under(下) which type(類型) of attack(攻擊) does an attacker’s system(系統) appear(出現) to be the server(伺服器) to the real(真實)
+client(客戶) and appear(出現) to be the client(客戶) to the real server(真實伺服器)?
+A. Denial of service(拒絕服務)
+B. Replay(重播)
+C. Eavesdropping(竊聽)
+D. Man-in-the-middle(中間人)
+125. You are a security(安全) administrator(管理員) for Acme Corporation(公司). You have discovered(發現) malware(惡意程式) on
+some of your company’s(公司的) machines(機器). This malware(惡意程式) seems(好像) to intercept(截距) calls(來電) from the web
+browser(瀏覽器) to libraries(圖書館), and then manipulates(操縱) the browser(瀏覽器) calls(來電). What type(類型) of attack(攻擊) is this?
+A. Man-in-the-browser(瀏覽器中的人)
+B. Man-in-the-middle(中間人攻擊)
+C. Buffer overflow(緩衝區溢位)
+D. Session hijacking(會話劫持)
 ```
