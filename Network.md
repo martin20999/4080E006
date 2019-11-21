@@ -45,8 +45,8 @@ MAC Address
 ### ICMP
 ```
 Internet Control Message Protocol
-![ICMP 封包格式](icmp_header.gif)
 ```
+![ICMP 封包格式](icmp_header.gif)
 #### ICMP Message Format封包格式:
 
 
